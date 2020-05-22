@@ -18,6 +18,7 @@ public class Herencia {
 		Shark shark = new Shark (0);
 		Bird bird = new Bird (); 
 		Eagle eagle = new Eagle ();
+		//
 		
 		// ESTO ES PARA COMPROBAR LAS HERENCIAS
 		lion.roar(); 
